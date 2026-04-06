@@ -1,0 +1,14 @@
+{
+  "schema_version": "v1.2",
+  "timestamp": "2026-03-26T16:33:00Z",
+  "last_scout_run": {
+    "agent": "Scout (01)",
+    "status": "RETRY",
+    "timestamp": "2026-03-31T01:43:22.897Z",
+    "failure_reason": "Placeholder URLs detected; real accessible URLs required. Each pain point must have ≥2 verified sources.",
+    "search_audit": 15,
+    "discovered_signals": 5
+  },
+  "pipeline_status": "SCOUTING",
+  "velocity_enforcement": "ON"
+}

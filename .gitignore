@@ -1,0 +1,16 @@
+# OpenClaw internals
+.openclaw/
+.clawhub/
+skills/
+memory/
+node_modules/
+
+# Temp files
+*.tmp
+*.bak
+*.log
+
+# Agent workspaces (ephemeral, not tracked)
+scout_run.py
+validator_input.json
+workforce/
